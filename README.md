@@ -1,3 +1,5 @@
+The current state of this project is not completed, the current version only takes advantage of the MFRC522 libraries as well as a written Python program to display input and output within a terminal window.
+
 Here is the link to the Magic Mirror software:
 https://github.com/MichMich/MagicMirror.git
 
